@@ -1,0 +1,754 @@
+⚠ [3457/3556] Replayed QuadraticTangZhang.CenteredRemainder
+warning: QuadraticTangZhang/CenteredRemainder.lean:84:58: Unused tactic linter: `ring` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:84:58: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:84:25: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:84:39: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:100:24: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:100:38: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:190:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:190:34: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [3458/3556] Replayed QuadraticTangZhang.CenteredScalar
+warning: QuadraticTangZhang/CenteredScalar.lean:39:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredScalar.lean:40:74: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredScalar.lean:113:25: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredScalar.lean:113:53: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredScalar.lean:165:40: This simp argument is unused:
+  norm_mul
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [U, r, abs_of_nonneg ha]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [3461/3556] Replayed QuadraticTangZhang.ConvexQuadrature
+warning: QuadraticTangZhang/ConvexQuadrature.lean:140:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/ConvexQuadrature.lean:149:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [3462/3556] Replayed QuadraticTangZhang.DyadicSoundness
+warning: QuadraticTangZhang/DyadicSoundness.lean:37:5: Variable name `hn` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hn
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: QuadraticTangZhang/DyadicSoundness.lean:45:5: Variable name `hn` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hn
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: QuadraticTangZhang/DyadicSoundness.lean:64:27: `dif_neg` has been deprecated: Use `dite_eq_right` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:67:12: `if_pos` has been deprecated: Use `ite_eq_left` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:71:12: `if_neg` has been deprecated: Use `ite_eq_right` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:93:27: `dif_neg` has been deprecated: Use `dite_eq_right` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:96:12: `if_pos` has been deprecated: Use `ite_eq_left` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:100:12: `if_neg` has been deprecated: Use `ite_eq_right` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:187:45: `if_pos` has been deprecated: Use `ite_eq_left` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:189:45: `if_neg` has been deprecated: Use `ite_eq_right` instead
+⚠ [3464/3556] Replayed QuadraticTangZhang.RectangleBounds
+warning: QuadraticTangZhang/RectangleBounds.lean:18:44: Variable name `hD` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hD
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: QuadraticTangZhang/RectangleBounds.lean:84:18: Variable name `hR` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hR
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [3467/3556] Replayed QuadraticTangZhang.UniformBounds
+warning: QuadraticTangZhang/UniformBounds.lean:34:18: Variable name `hL` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hL
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [3468/3556] Replayed QuadraticTangZhang.CertificateVerifier
+warning: QuadraticTangZhang/CertificateVerifier.lean:189:57: This simp argument is unused:
+  upperF
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [Rat.cast_sub, Rat.cast_one]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: QuadraticTangZhang/CertificateVerifier.lean:193:57: This simp argument is unused:
+  upperE
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [Rat.cast_sub, Rat.cast_one]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [3470/3556] Replayed QuadraticTangZhang.ExponentialIntegrals
+warning: QuadraticTangZhang/ExponentialIntegrals.lean:19:22: This simp argument is unused:
+  add_zero
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [mul_zero, zero_add, Real.exp_zero, mul_one]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+info: QuadraticTangZhang/ExponentialIntegrals.lean:47:38: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+warning: QuadraticTangZhang/ExponentialIntegrals.lean:47:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+info: QuadraticTangZhang/ExponentialIntegrals.lean:63:79: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+info: QuadraticTangZhang/ExponentialIntegrals.lean:88:40: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+warning: QuadraticTangZhang/ExponentialIntegrals.lean:93:48: try 'simp' instead of 'simpa'
+
+Note: This linter can be disabled with `set_option linter.unnecessarySimpa false`
+⚠ [3471/3556] Replayed QuadraticTangZhang.NearIntegralBounds
+warning: QuadraticTangZhang/NearIntegralBounds.lean:93:25: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [3472/3556] Replayed QuadraticTangZhang.LogGrowth
+warning: QuadraticTangZhang/LogGrowth.lean:64:52: Variable name `he` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _he
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [3476/3556] Replayed QuadraticTangZhang.PowerTailBounds
+info: QuadraticTangZhang/PowerTailBounds.lean:54:38: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+warning: QuadraticTangZhang/PowerTailBounds.lean:54:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+info: QuadraticTangZhang/PowerTailBounds.lean:65:38: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+warning: QuadraticTangZhang/PowerTailBounds.lean:62:6: Unused tactic linter: `(rw [div_lt_iff₀ (Real.rpow_pos_of_pos (by norm_num) _)]; linarith)` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: QuadraticTangZhang/PowerTailBounds.lean:62:6: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: QuadraticTangZhang/PowerTailBounds.lean:65:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+info: QuadraticTangZhang/PowerTailBounds.lean:77:38: Try this:
+  [apply] ring_nf
+  
+  The `ring` tactic failed to close the goal. Use `ring_nf` to obtain a normal form.
+    
+  Note that `ring` works primarily in *commutative* rings. If you have a noncommutative ring, abelian group or module, consider using `noncomm_ring`, `abel` or `module` instead.
+warning: QuadraticTangZhang/PowerTailBounds.lean:77:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [3477/3556] Replayed QuadraticTangZhang.AwayScalarBounds
+warning: QuadraticTangZhang/AwayScalarBounds.lean:10:49: Variable name `hw` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hw
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: QuadraticTangZhang/AwayScalarBounds.lean:53:19: Unused tactic linter: `ring` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: QuadraticTangZhang/AwayScalarBounds.lean:53:19: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+⚠ [3479/3556] Replayed QuadraticTangZhang.LargeAway
+warning: QuadraticTangZhang/LargeAway.lean:53:25: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/LargeAway.lean:61:25: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+ℹ [3481/3556] Replayed QuadraticTangZhang.LargeDegreeResult
+info: QuadraticTangZhang/LargeDegreeResult.lean:23:0: 'QuadraticTangZhang.large_degree_interior' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3484/3556] Replayed QuadraticTangZhang.Certificate.DataFacts
+info: QuadraticTangZhang/Certificate/DataFacts.lean:13:0: 'QuadraticTangZhang.CertificateData.record_count' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/DataFacts.lean:14:0: 'QuadraticTangZhang.CertificateData.full_certificate_coverage' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+ℹ [3487/3556] Replayed QuadraticTangZhang.Certificate.Checked00
+info: QuadraticTangZhang/Certificate/Checked00.lean:3522:0: 'QuadraticTangZhang.CertificateData.block_000_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked00.lean:4210:0: 'QuadraticTangZhang.CertificateData.block_001_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked00.lean:4532:0: 'QuadraticTangZhang.CertificateData.block_002_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked00.lean:4737:0: 'QuadraticTangZhang.CertificateData.block_003_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked00.lean:4891:0: 'QuadraticTangZhang.CertificateData.block_004_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked00.lean:5021:0: 'QuadraticTangZhang.CertificateData.block_005_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked00.lean:5133:0: 'QuadraticTangZhang.CertificateData.block_006_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked00.lean:5230:0: 'QuadraticTangZhang.CertificateData.block_007_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked00.lean:5321:0: 'QuadraticTangZhang.CertificateData.block_008_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked00.lean:5403:0: 'QuadraticTangZhang.CertificateData.block_009_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3488/3556] Replayed QuadraticTangZhang.Certificate.Checked01
+info: QuadraticTangZhang/Certificate/Checked01.lean:90:0: 'QuadraticTangZhang.CertificateData.block_010_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked01.lean:169:0: 'QuadraticTangZhang.CertificateData.block_011_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked01.lean:245:0: 'QuadraticTangZhang.CertificateData.block_012_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked01.lean:321:0: 'QuadraticTangZhang.CertificateData.block_013_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked01.lean:391:0: 'QuadraticTangZhang.CertificateData.block_014_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked01.lean:464:0: 'QuadraticTangZhang.CertificateData.block_015_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked01.lean:537:0: 'QuadraticTangZhang.CertificateData.block_016_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked01.lean:607:0: 'QuadraticTangZhang.CertificateData.block_017_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked01.lean:680:0: 'QuadraticTangZhang.CertificateData.block_018_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked01.lean:756:0: 'QuadraticTangZhang.CertificateData.block_019_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3489/3556] Replayed QuadraticTangZhang.Certificate.Checked02
+info: QuadraticTangZhang/Certificate/Checked02.lean:84:0: 'QuadraticTangZhang.CertificateData.block_020_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked02.lean:163:0: 'QuadraticTangZhang.CertificateData.block_021_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked02.lean:245:0: 'QuadraticTangZhang.CertificateData.block_022_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked02.lean:321:0: 'QuadraticTangZhang.CertificateData.block_023_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked02.lean:397:0: 'QuadraticTangZhang.CertificateData.block_024_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked02.lean:473:0: 'QuadraticTangZhang.CertificateData.block_025_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked02.lean:546:0: 'QuadraticTangZhang.CertificateData.block_026_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked02.lean:613:0: 'QuadraticTangZhang.CertificateData.block_027_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked02.lean:680:0: 'QuadraticTangZhang.CertificateData.block_028_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked02.lean:747:0: 'QuadraticTangZhang.CertificateData.block_029_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3490/3556] Replayed QuadraticTangZhang.Certificate.Checked03
+info: QuadraticTangZhang/Certificate/Checked03.lean:72:0: 'QuadraticTangZhang.CertificateData.block_030_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked03.lean:139:0: 'QuadraticTangZhang.CertificateData.block_031_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked03.lean:203:0: 'QuadraticTangZhang.CertificateData.block_032_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked03.lean:267:0: 'QuadraticTangZhang.CertificateData.block_033_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked03.lean:331:0: 'QuadraticTangZhang.CertificateData.block_034_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked03.lean:395:0: 'QuadraticTangZhang.CertificateData.block_035_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked03.lean:459:0: 'QuadraticTangZhang.CertificateData.block_036_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked03.lean:523:0: 'QuadraticTangZhang.CertificateData.block_037_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked03.lean:584:0: 'QuadraticTangZhang.CertificateData.block_038_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked03.lean:645:0: 'QuadraticTangZhang.CertificateData.block_039_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3491/3556] Replayed QuadraticTangZhang.Certificate.Checked04
+info: QuadraticTangZhang/Certificate/Checked04.lean:69:0: 'QuadraticTangZhang.CertificateData.block_040_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked04.lean:136:0: 'QuadraticTangZhang.CertificateData.block_041_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked04.lean:200:0: 'QuadraticTangZhang.CertificateData.block_042_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked04.lean:261:0: 'QuadraticTangZhang.CertificateData.block_043_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked04.lean:316:0: 'QuadraticTangZhang.CertificateData.block_044_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked04.lean:371:0: 'QuadraticTangZhang.CertificateData.block_045_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked04.lean:420:0: 'QuadraticTangZhang.CertificateData.block_046_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked04.lean:466:0: 'QuadraticTangZhang.CertificateData.block_047_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked04.lean:512:0: 'QuadraticTangZhang.CertificateData.block_048_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked04.lean:558:0: 'QuadraticTangZhang.CertificateData.block_049_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3492/3556] Replayed QuadraticTangZhang.Certificate.Checked05
+info: QuadraticTangZhang/Certificate/Checked05.lean:51:0: 'QuadraticTangZhang.CertificateData.block_050_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked05.lean:97:0: 'QuadraticTangZhang.CertificateData.block_051_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked05.lean:143:0: 'QuadraticTangZhang.CertificateData.block_052_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked05.lean:189:0: 'QuadraticTangZhang.CertificateData.block_053_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked05.lean:235:0: 'QuadraticTangZhang.CertificateData.block_054_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked05.lean:281:0: 'QuadraticTangZhang.CertificateData.block_055_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked05.lean:327:0: 'QuadraticTangZhang.CertificateData.block_056_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked05.lean:370:0: 'QuadraticTangZhang.CertificateData.block_057_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked05.lean:416:0: 'QuadraticTangZhang.CertificateData.block_058_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked05.lean:462:0: 'QuadraticTangZhang.CertificateData.block_059_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3493/3556] Replayed QuadraticTangZhang.Certificate.Checked06
+info: QuadraticTangZhang/Certificate/Checked06.lean:51:0: 'QuadraticTangZhang.CertificateData.block_060_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked06.lean:97:0: 'QuadraticTangZhang.CertificateData.block_061_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked06.lean:143:0: 'QuadraticTangZhang.CertificateData.block_062_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked06.lean:183:0: 'QuadraticTangZhang.CertificateData.block_063_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked06.lean:223:0: 'QuadraticTangZhang.CertificateData.block_064_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked06.lean:263:0: 'QuadraticTangZhang.CertificateData.block_065_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked06.lean:303:0: 'QuadraticTangZhang.CertificateData.block_066_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked06.lean:340:0: 'QuadraticTangZhang.CertificateData.block_067_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked06.lean:377:0: 'QuadraticTangZhang.CertificateData.block_068_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked06.lean:411:0: 'QuadraticTangZhang.CertificateData.block_069_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3494/3556] Replayed QuadraticTangZhang.Certificate.Checked07
+info: QuadraticTangZhang/Certificate/Checked07.lean:39:0: 'QuadraticTangZhang.CertificateData.block_070_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked07.lean:73:0: 'QuadraticTangZhang.CertificateData.block_071_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked07.lean:107:0: 'QuadraticTangZhang.CertificateData.block_072_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked07.lean:141:0: 'QuadraticTangZhang.CertificateData.block_073_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked07.lean:178:0: 'QuadraticTangZhang.CertificateData.block_074_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked07.lean:215:0: 'QuadraticTangZhang.CertificateData.block_075_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked07.lean:252:0: 'QuadraticTangZhang.CertificateData.block_076_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked07.lean:289:0: 'QuadraticTangZhang.CertificateData.block_077_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked07.lean:326:0: 'QuadraticTangZhang.CertificateData.block_078_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked07.lean:360:0: 'QuadraticTangZhang.CertificateData.block_079_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3495/3556] Replayed QuadraticTangZhang.Certificate.Checked08
+info: QuadraticTangZhang/Certificate/Checked08.lean:39:0: 'QuadraticTangZhang.CertificateData.block_080_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked08.lean:76:0: 'QuadraticTangZhang.CertificateData.block_081_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked08.lean:113:0: 'QuadraticTangZhang.CertificateData.block_082_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked08.lean:150:0: 'QuadraticTangZhang.CertificateData.block_083_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked08.lean:187:0: 'QuadraticTangZhang.CertificateData.block_084_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked08.lean:224:0: 'QuadraticTangZhang.CertificateData.block_085_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked08.lean:261:0: 'QuadraticTangZhang.CertificateData.block_086_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked08.lean:298:0: 'QuadraticTangZhang.CertificateData.block_087_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked08.lean:335:0: 'QuadraticTangZhang.CertificateData.block_088_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked08.lean:372:0: 'QuadraticTangZhang.CertificateData.block_089_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3496/3556] Replayed QuadraticTangZhang.Certificate.Checked09
+info: QuadraticTangZhang/Certificate/Checked09.lean:42:0: 'QuadraticTangZhang.CertificateData.block_090_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked09.lean:79:0: 'QuadraticTangZhang.CertificateData.block_091_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked09.lean:116:0: 'QuadraticTangZhang.CertificateData.block_092_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked09.lean:156:0: 'QuadraticTangZhang.CertificateData.block_093_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked09.lean:196:0: 'QuadraticTangZhang.CertificateData.block_094_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked09.lean:236:0: 'QuadraticTangZhang.CertificateData.block_095_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked09.lean:276:0: 'QuadraticTangZhang.CertificateData.block_096_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked09.lean:316:0: 'QuadraticTangZhang.CertificateData.block_097_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked09.lean:356:0: 'QuadraticTangZhang.CertificateData.block_098_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked09.lean:396:0: 'QuadraticTangZhang.CertificateData.block_099_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3497/3556] Replayed QuadraticTangZhang.Certificate.Checked10
+info: QuadraticTangZhang/Certificate/Checked10.lean:42:0: 'QuadraticTangZhang.CertificateData.block_100_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked10.lean:76:0: 'QuadraticTangZhang.CertificateData.block_101_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked10.lean:110:0: 'QuadraticTangZhang.CertificateData.block_102_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked10.lean:144:0: 'QuadraticTangZhang.CertificateData.block_103_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked10.lean:178:0: 'QuadraticTangZhang.CertificateData.block_104_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked10.lean:212:0: 'QuadraticTangZhang.CertificateData.block_105_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked10.lean:246:0: 'QuadraticTangZhang.CertificateData.block_106_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked10.lean:280:0: 'QuadraticTangZhang.CertificateData.block_107_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked10.lean:314:0: 'QuadraticTangZhang.CertificateData.block_108_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked10.lean:348:0: 'QuadraticTangZhang.CertificateData.block_109_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3498/3556] Replayed QuadraticTangZhang.Certificate.Checked11
+info: QuadraticTangZhang/Certificate/Checked11.lean:39:0: 'QuadraticTangZhang.CertificateData.block_110_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked11.lean:73:0: 'QuadraticTangZhang.CertificateData.block_111_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked11.lean:107:0: 'QuadraticTangZhang.CertificateData.block_112_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked11.lean:141:0: 'QuadraticTangZhang.CertificateData.block_113_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked11.lean:175:0: 'QuadraticTangZhang.CertificateData.block_114_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked11.lean:209:0: 'QuadraticTangZhang.CertificateData.block_115_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked11.lean:243:0: 'QuadraticTangZhang.CertificateData.block_116_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked11.lean:277:0: 'QuadraticTangZhang.CertificateData.block_117_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked11.lean:311:0: 'QuadraticTangZhang.CertificateData.block_118_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked11.lean:345:0: 'QuadraticTangZhang.CertificateData.block_119_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3499/3556] Replayed QuadraticTangZhang.Certificate.Checked12
+info: QuadraticTangZhang/Certificate/Checked12.lean:39:0: 'QuadraticTangZhang.CertificateData.block_120_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:73:0: 'QuadraticTangZhang.CertificateData.block_121_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:107:0: 'QuadraticTangZhang.CertificateData.block_122_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:141:0: 'QuadraticTangZhang.CertificateData.block_123_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:175:0: 'QuadraticTangZhang.CertificateData.block_124_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:209:0: 'QuadraticTangZhang.CertificateData.block_125_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:243:0: 'QuadraticTangZhang.CertificateData.block_126_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:277:0: 'QuadraticTangZhang.CertificateData.block_127_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:311:0: 'QuadraticTangZhang.CertificateData.block_128_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:345:0: 'QuadraticTangZhang.CertificateData.block_129_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3500/3556] Replayed QuadraticTangZhang.Certificate.Checked13
+info: QuadraticTangZhang/Certificate/Checked13.lean:39:0: 'QuadraticTangZhang.CertificateData.block_130_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked13.lean:73:0: 'QuadraticTangZhang.CertificateData.block_131_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked13.lean:107:0: 'QuadraticTangZhang.CertificateData.block_132_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked13.lean:141:0: 'QuadraticTangZhang.CertificateData.block_133_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked13.lean:175:0: 'QuadraticTangZhang.CertificateData.block_134_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked13.lean:209:0: 'QuadraticTangZhang.CertificateData.block_135_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked13.lean:243:0: 'QuadraticTangZhang.CertificateData.block_136_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked13.lean:277:0: 'QuadraticTangZhang.CertificateData.block_137_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked13.lean:311:0: 'QuadraticTangZhang.CertificateData.block_138_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked13.lean:345:0: 'QuadraticTangZhang.CertificateData.block_139_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3501/3556] Replayed QuadraticTangZhang.Certificate.Checked14
+info: QuadraticTangZhang/Certificate/Checked14.lean:39:0: 'QuadraticTangZhang.CertificateData.block_140_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked14.lean:73:0: 'QuadraticTangZhang.CertificateData.block_141_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked14.lean:107:0: 'QuadraticTangZhang.CertificateData.block_142_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked14.lean:141:0: 'QuadraticTangZhang.CertificateData.block_143_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked14.lean:172:0: 'QuadraticTangZhang.CertificateData.block_144_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked14.lean:203:0: 'QuadraticTangZhang.CertificateData.block_145_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked14.lean:234:0: 'QuadraticTangZhang.CertificateData.block_146_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked14.lean:265:0: 'QuadraticTangZhang.CertificateData.block_147_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked14.lean:296:0: 'QuadraticTangZhang.CertificateData.block_148_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked14.lean:327:0: 'QuadraticTangZhang.CertificateData.block_149_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3502/3556] Replayed QuadraticTangZhang.Certificate.Checked15
+info: QuadraticTangZhang/Certificate/Checked15.lean:36:0: 'QuadraticTangZhang.CertificateData.block_150_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked15.lean:67:0: 'QuadraticTangZhang.CertificateData.block_151_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked15.lean:98:0: 'QuadraticTangZhang.CertificateData.block_152_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked15.lean:129:0: 'QuadraticTangZhang.CertificateData.block_153_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked15.lean:160:0: 'QuadraticTangZhang.CertificateData.block_154_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked15.lean:191:0: 'QuadraticTangZhang.CertificateData.block_155_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked15.lean:222:0: 'QuadraticTangZhang.CertificateData.block_156_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked15.lean:253:0: 'QuadraticTangZhang.CertificateData.block_157_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked15.lean:284:0: 'QuadraticTangZhang.CertificateData.block_158_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked15.lean:315:0: 'QuadraticTangZhang.CertificateData.block_159_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3503/3556] Replayed QuadraticTangZhang.Certificate.Checked16
+info: QuadraticTangZhang/Certificate/Checked16.lean:36:0: 'QuadraticTangZhang.CertificateData.block_160_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked16.lean:67:0: 'QuadraticTangZhang.CertificateData.block_161_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked16.lean:101:0: 'QuadraticTangZhang.CertificateData.block_162_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked16.lean:135:0: 'QuadraticTangZhang.CertificateData.block_163_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked16.lean:169:0: 'QuadraticTangZhang.CertificateData.block_164_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked16.lean:200:0: 'QuadraticTangZhang.CertificateData.block_165_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked16.lean:231:0: 'QuadraticTangZhang.CertificateData.block_166_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked16.lean:262:0: 'QuadraticTangZhang.CertificateData.block_167_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked16.lean:293:0: 'QuadraticTangZhang.CertificateData.block_168_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked16.lean:324:0: 'QuadraticTangZhang.CertificateData.block_169_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3504/3556] Replayed QuadraticTangZhang.Certificate.Checked17
+info: QuadraticTangZhang/Certificate/Checked17.lean:36:0: 'QuadraticTangZhang.CertificateData.block_170_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked17.lean:67:0: 'QuadraticTangZhang.CertificateData.block_171_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked17.lean:98:0: 'QuadraticTangZhang.CertificateData.block_172_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked17.lean:129:0: 'QuadraticTangZhang.CertificateData.block_173_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked17.lean:160:0: 'QuadraticTangZhang.CertificateData.block_174_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked17.lean:191:0: 'QuadraticTangZhang.CertificateData.block_175_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked17.lean:222:0: 'QuadraticTangZhang.CertificateData.block_176_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked17.lean:253:0: 'QuadraticTangZhang.CertificateData.block_177_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked17.lean:284:0: 'QuadraticTangZhang.CertificateData.block_178_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked17.lean:315:0: 'QuadraticTangZhang.CertificateData.block_179_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+⚠ [3505/3556] Replayed QuadraticTangZhang.CertificateKernel.Compute
+warning: QuadraticTangZhang/CertificateKernel/Compute.lean:24:5: Variable name `hn` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hn
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: QuadraticTangZhang/CertificateKernel/Compute.lean:32:5: Variable name `hn` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hn
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [3506/3556] Replayed QuadraticTangZhang.CertificateKernel.Bridge
+warning: QuadraticTangZhang/CertificateKernel/Bridge.lean:13:17: `dif_neg` has been deprecated: Use `dite_eq_right` instead
+warning: QuadraticTangZhang/CertificateKernel/Bridge.lean:24:17: `dif_neg` has been deprecated: Use `dite_eq_right` instead
+info: QuadraticTangZhang/CertificateKernel/Bridge.lean:88:0: 'QuadraticTangZhang.kernel_checked_record' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3508/3556] Replayed QuadraticTangZhang.CertificateKernel.Tagged
+info: QuadraticTangZhang/CertificateKernel/Tagged.lean:38:0: 'QuadraticTangZhangKernel.tagged_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3509/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked18
+info: QuadraticTangZhang/CertificateKernel/Checked18.lean:278:0: 'QuadraticTangZhangKernel.record_4077_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3510/3556] Replayed QuadraticTangZhang.Certificate.Checked18
+info: QuadraticTangZhang/Certificate/Checked18.lean:38:0: 'QuadraticTangZhang.CertificateData.block_180_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked18.lean:69:0: 'QuadraticTangZhang.CertificateData.block_181_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked18.lean:100:0: 'QuadraticTangZhang.CertificateData.block_182_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked18.lean:131:0: 'QuadraticTangZhang.CertificateData.block_183_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked18.lean:162:0: 'QuadraticTangZhang.CertificateData.block_184_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked18.lean:193:0: 'QuadraticTangZhang.CertificateData.block_185_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked18.lean:224:0: 'QuadraticTangZhang.CertificateData.block_186_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked18.lean:255:0: 'QuadraticTangZhang.CertificateData.block_187_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked18.lean:286:0: 'QuadraticTangZhang.CertificateData.block_188_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked18.lean:317:0: 'QuadraticTangZhang.CertificateData.block_189_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3511/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked19
+info: QuadraticTangZhang/CertificateKernel/Checked19.lean:278:0: 'QuadraticTangZhangKernel.record_4167_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3512/3556] Replayed QuadraticTangZhang.Certificate.Checked19
+info: QuadraticTangZhang/Certificate/Checked19.lean:38:0: 'QuadraticTangZhang.CertificateData.block_190_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked19.lean:69:0: 'QuadraticTangZhang.CertificateData.block_191_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked19.lean:100:0: 'QuadraticTangZhang.CertificateData.block_192_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked19.lean:131:0: 'QuadraticTangZhang.CertificateData.block_193_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked19.lean:162:0: 'QuadraticTangZhang.CertificateData.block_194_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked19.lean:193:0: 'QuadraticTangZhang.CertificateData.block_195_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked19.lean:224:0: 'QuadraticTangZhang.CertificateData.block_196_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked19.lean:255:0: 'QuadraticTangZhang.CertificateData.block_197_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked19.lean:286:0: 'QuadraticTangZhang.CertificateData.block_198_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked19.lean:317:0: 'QuadraticTangZhang.CertificateData.block_199_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3513/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked20
+info: QuadraticTangZhang/CertificateKernel/Checked20.lean:278:0: 'QuadraticTangZhangKernel.record_4257_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3514/3556] Replayed QuadraticTangZhang.Certificate.Checked20
+info: QuadraticTangZhang/Certificate/Checked20.lean:38:0: 'QuadraticTangZhang.CertificateData.block_200_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked20.lean:69:0: 'QuadraticTangZhang.CertificateData.block_201_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked20.lean:100:0: 'QuadraticTangZhang.CertificateData.block_202_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked20.lean:131:0: 'QuadraticTangZhang.CertificateData.block_203_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked20.lean:162:0: 'QuadraticTangZhang.CertificateData.block_204_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked20.lean:193:0: 'QuadraticTangZhang.CertificateData.block_205_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked20.lean:224:0: 'QuadraticTangZhang.CertificateData.block_206_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked20.lean:255:0: 'QuadraticTangZhang.CertificateData.block_207_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked20.lean:286:0: 'QuadraticTangZhang.CertificateData.block_208_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked20.lean:317:0: 'QuadraticTangZhang.CertificateData.block_209_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3515/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked21
+info: QuadraticTangZhang/CertificateKernel/Checked21.lean:278:0: 'QuadraticTangZhangKernel.record_4347_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3516/3556] Replayed QuadraticTangZhang.Certificate.Checked21
+info: QuadraticTangZhang/Certificate/Checked21.lean:38:0: 'QuadraticTangZhang.CertificateData.block_210_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked21.lean:69:0: 'QuadraticTangZhang.CertificateData.block_211_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked21.lean:100:0: 'QuadraticTangZhang.CertificateData.block_212_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked21.lean:131:0: 'QuadraticTangZhang.CertificateData.block_213_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked21.lean:162:0: 'QuadraticTangZhang.CertificateData.block_214_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked21.lean:193:0: 'QuadraticTangZhang.CertificateData.block_215_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked21.lean:224:0: 'QuadraticTangZhang.CertificateData.block_216_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked21.lean:255:0: 'QuadraticTangZhang.CertificateData.block_217_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked21.lean:286:0: 'QuadraticTangZhang.CertificateData.block_218_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked21.lean:317:0: 'QuadraticTangZhang.CertificateData.block_219_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3517/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked22
+info: QuadraticTangZhang/CertificateKernel/Checked22.lean:278:0: 'QuadraticTangZhangKernel.record_4437_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3518/3556] Replayed QuadraticTangZhang.Certificate.Checked22
+info: QuadraticTangZhang/Certificate/Checked22.lean:38:0: 'QuadraticTangZhang.CertificateData.block_220_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked22.lean:69:0: 'QuadraticTangZhang.CertificateData.block_221_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked22.lean:100:0: 'QuadraticTangZhang.CertificateData.block_222_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked22.lean:131:0: 'QuadraticTangZhang.CertificateData.block_223_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked22.lean:162:0: 'QuadraticTangZhang.CertificateData.block_224_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked22.lean:193:0: 'QuadraticTangZhang.CertificateData.block_225_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked22.lean:224:0: 'QuadraticTangZhang.CertificateData.block_226_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked22.lean:255:0: 'QuadraticTangZhang.CertificateData.block_227_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked22.lean:286:0: 'QuadraticTangZhang.CertificateData.block_228_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked22.lean:317:0: 'QuadraticTangZhang.CertificateData.block_229_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3519/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked23
+info: QuadraticTangZhang/CertificateKernel/Checked23.lean:278:0: 'QuadraticTangZhangKernel.record_4527_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3520/3556] Replayed QuadraticTangZhang.Certificate.Checked23
+info: QuadraticTangZhang/Certificate/Checked23.lean:38:0: 'QuadraticTangZhang.CertificateData.block_230_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked23.lean:69:0: 'QuadraticTangZhang.CertificateData.block_231_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked23.lean:100:0: 'QuadraticTangZhang.CertificateData.block_232_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked23.lean:131:0: 'QuadraticTangZhang.CertificateData.block_233_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked23.lean:162:0: 'QuadraticTangZhang.CertificateData.block_234_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked23.lean:193:0: 'QuadraticTangZhang.CertificateData.block_235_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked23.lean:224:0: 'QuadraticTangZhang.CertificateData.block_236_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked23.lean:255:0: 'QuadraticTangZhang.CertificateData.block_237_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked23.lean:286:0: 'QuadraticTangZhang.CertificateData.block_238_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked23.lean:317:0: 'QuadraticTangZhang.CertificateData.block_239_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3521/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked24
+info: QuadraticTangZhang/CertificateKernel/Checked24.lean:308:0: 'QuadraticTangZhangKernel.record_4627_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3522/3556] Replayed QuadraticTangZhang.Certificate.Checked24
+info: QuadraticTangZhang/Certificate/Checked24.lean:41:0: 'QuadraticTangZhang.CertificateData.block_240_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked24.lean:75:0: 'QuadraticTangZhang.CertificateData.block_241_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked24.lean:109:0: 'QuadraticTangZhang.CertificateData.block_242_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked24.lean:143:0: 'QuadraticTangZhang.CertificateData.block_243_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked24.lean:177:0: 'QuadraticTangZhang.CertificateData.block_244_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked24.lean:211:0: 'QuadraticTangZhang.CertificateData.block_245_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked24.lean:245:0: 'QuadraticTangZhang.CertificateData.block_246_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked24.lean:279:0: 'QuadraticTangZhang.CertificateData.block_247_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked24.lean:313:0: 'QuadraticTangZhang.CertificateData.block_248_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked24.lean:347:0: 'QuadraticTangZhang.CertificateData.block_249_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3523/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked25
+info: QuadraticTangZhang/CertificateKernel/Checked25.lean:308:0: 'QuadraticTangZhangKernel.record_4727_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3524/3556] Replayed QuadraticTangZhang.Certificate.Checked25
+info: QuadraticTangZhang/Certificate/Checked25.lean:41:0: 'QuadraticTangZhang.CertificateData.block_250_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked25.lean:75:0: 'QuadraticTangZhang.CertificateData.block_251_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked25.lean:109:0: 'QuadraticTangZhang.CertificateData.block_252_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked25.lean:143:0: 'QuadraticTangZhang.CertificateData.block_253_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked25.lean:177:0: 'QuadraticTangZhang.CertificateData.block_254_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked25.lean:211:0: 'QuadraticTangZhang.CertificateData.block_255_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked25.lean:245:0: 'QuadraticTangZhang.CertificateData.block_256_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked25.lean:279:0: 'QuadraticTangZhang.CertificateData.block_257_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked25.lean:313:0: 'QuadraticTangZhang.CertificateData.block_258_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked25.lean:347:0: 'QuadraticTangZhang.CertificateData.block_259_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3525/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked26
+info: QuadraticTangZhang/CertificateKernel/Checked26.lean:308:0: 'QuadraticTangZhangKernel.record_4827_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3526/3556] Replayed QuadraticTangZhang.Certificate.Checked26
+info: QuadraticTangZhang/Certificate/Checked26.lean:41:0: 'QuadraticTangZhang.CertificateData.block_260_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked26.lean:75:0: 'QuadraticTangZhang.CertificateData.block_261_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked26.lean:109:0: 'QuadraticTangZhang.CertificateData.block_262_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked26.lean:143:0: 'QuadraticTangZhang.CertificateData.block_263_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked26.lean:177:0: 'QuadraticTangZhang.CertificateData.block_264_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked26.lean:211:0: 'QuadraticTangZhang.CertificateData.block_265_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked26.lean:245:0: 'QuadraticTangZhang.CertificateData.block_266_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked26.lean:279:0: 'QuadraticTangZhang.CertificateData.block_267_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked26.lean:313:0: 'QuadraticTangZhang.CertificateData.block_268_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked26.lean:347:0: 'QuadraticTangZhang.CertificateData.block_269_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3527/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked27
+info: QuadraticTangZhang/CertificateKernel/Checked27.lean:308:0: 'QuadraticTangZhangKernel.record_4927_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3528/3556] Replayed QuadraticTangZhang.Certificate.Checked27
+info: QuadraticTangZhang/Certificate/Checked27.lean:41:0: 'QuadraticTangZhang.CertificateData.block_270_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked27.lean:75:0: 'QuadraticTangZhang.CertificateData.block_271_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked27.lean:109:0: 'QuadraticTangZhang.CertificateData.block_272_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked27.lean:143:0: 'QuadraticTangZhang.CertificateData.block_273_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked27.lean:177:0: 'QuadraticTangZhang.CertificateData.block_274_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked27.lean:211:0: 'QuadraticTangZhang.CertificateData.block_275_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked27.lean:245:0: 'QuadraticTangZhang.CertificateData.block_276_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked27.lean:279:0: 'QuadraticTangZhang.CertificateData.block_277_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked27.lean:313:0: 'QuadraticTangZhang.CertificateData.block_278_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked27.lean:347:0: 'QuadraticTangZhang.CertificateData.block_279_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3529/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked28
+info: QuadraticTangZhang/CertificateKernel/Checked28.lean:308:0: 'QuadraticTangZhangKernel.record_5027_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3530/3556] Replayed QuadraticTangZhang.Certificate.Checked28
+info: QuadraticTangZhang/Certificate/Checked28.lean:41:0: 'QuadraticTangZhang.CertificateData.block_280_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked28.lean:75:0: 'QuadraticTangZhang.CertificateData.block_281_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked28.lean:109:0: 'QuadraticTangZhang.CertificateData.block_282_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked28.lean:143:0: 'QuadraticTangZhang.CertificateData.block_283_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked28.lean:177:0: 'QuadraticTangZhang.CertificateData.block_284_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked28.lean:211:0: 'QuadraticTangZhang.CertificateData.block_285_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked28.lean:245:0: 'QuadraticTangZhang.CertificateData.block_286_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked28.lean:279:0: 'QuadraticTangZhang.CertificateData.block_287_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked28.lean:313:0: 'QuadraticTangZhang.CertificateData.block_288_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked28.lean:347:0: 'QuadraticTangZhang.CertificateData.block_289_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3531/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked29
+info: QuadraticTangZhang/CertificateKernel/Checked29.lean:308:0: 'QuadraticTangZhangKernel.record_5127_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3532/3556] Replayed QuadraticTangZhang.Certificate.Checked29
+info: QuadraticTangZhang/Certificate/Checked29.lean:41:0: 'QuadraticTangZhang.CertificateData.block_290_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked29.lean:75:0: 'QuadraticTangZhang.CertificateData.block_291_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked29.lean:109:0: 'QuadraticTangZhang.CertificateData.block_292_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked29.lean:143:0: 'QuadraticTangZhang.CertificateData.block_293_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked29.lean:177:0: 'QuadraticTangZhang.CertificateData.block_294_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked29.lean:211:0: 'QuadraticTangZhang.CertificateData.block_295_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked29.lean:245:0: 'QuadraticTangZhang.CertificateData.block_296_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked29.lean:279:0: 'QuadraticTangZhang.CertificateData.block_297_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked29.lean:313:0: 'QuadraticTangZhang.CertificateData.block_298_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked29.lean:347:0: 'QuadraticTangZhang.CertificateData.block_299_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3533/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked30
+info: QuadraticTangZhang/CertificateKernel/Checked30.lean:308:0: 'QuadraticTangZhangKernel.record_5227_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3534/3556] Replayed QuadraticTangZhang.Certificate.Checked30
+info: QuadraticTangZhang/Certificate/Checked30.lean:41:0: 'QuadraticTangZhang.CertificateData.block_300_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked30.lean:75:0: 'QuadraticTangZhang.CertificateData.block_301_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked30.lean:109:0: 'QuadraticTangZhang.CertificateData.block_302_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked30.lean:143:0: 'QuadraticTangZhang.CertificateData.block_303_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked30.lean:177:0: 'QuadraticTangZhang.CertificateData.block_304_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked30.lean:211:0: 'QuadraticTangZhang.CertificateData.block_305_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked30.lean:245:0: 'QuadraticTangZhang.CertificateData.block_306_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked30.lean:279:0: 'QuadraticTangZhang.CertificateData.block_307_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked30.lean:313:0: 'QuadraticTangZhang.CertificateData.block_308_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked30.lean:347:0: 'QuadraticTangZhang.CertificateData.block_309_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3535/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked31
+info: QuadraticTangZhang/CertificateKernel/Checked31.lean:329:0: 'QuadraticTangZhangKernel.record_5334_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3536/3556] Replayed QuadraticTangZhang.Certificate.Checked31
+info: QuadraticTangZhang/Certificate/Checked31.lean:41:0: 'QuadraticTangZhang.CertificateData.block_310_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked31.lean:75:0: 'QuadraticTangZhang.CertificateData.block_311_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked31.lean:109:0: 'QuadraticTangZhang.CertificateData.block_312_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked31.lean:146:0: 'QuadraticTangZhang.CertificateData.block_313_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked31.lean:183:0: 'QuadraticTangZhang.CertificateData.block_314_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked31.lean:220:0: 'QuadraticTangZhang.CertificateData.block_315_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked31.lean:257:0: 'QuadraticTangZhang.CertificateData.block_316_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked31.lean:294:0: 'QuadraticTangZhang.CertificateData.block_317_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked31.lean:331:0: 'QuadraticTangZhang.CertificateData.block_318_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked31.lean:368:0: 'QuadraticTangZhang.CertificateData.block_319_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3537/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked32
+info: QuadraticTangZhang/CertificateKernel/Checked32.lean:338:0: 'QuadraticTangZhangKernel.record_5444_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3538/3556] Replayed QuadraticTangZhang.Certificate.Checked32
+info: QuadraticTangZhang/Certificate/Checked32.lean:44:0: 'QuadraticTangZhang.CertificateData.block_320_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked32.lean:81:0: 'QuadraticTangZhang.CertificateData.block_321_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked32.lean:118:0: 'QuadraticTangZhang.CertificateData.block_322_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked32.lean:155:0: 'QuadraticTangZhang.CertificateData.block_323_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked32.lean:192:0: 'QuadraticTangZhang.CertificateData.block_324_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked32.lean:229:0: 'QuadraticTangZhang.CertificateData.block_325_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked32.lean:266:0: 'QuadraticTangZhang.CertificateData.block_326_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked32.lean:303:0: 'QuadraticTangZhang.CertificateData.block_327_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked32.lean:340:0: 'QuadraticTangZhang.CertificateData.block_328_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked32.lean:377:0: 'QuadraticTangZhang.CertificateData.block_329_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3539/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked33
+info: QuadraticTangZhang/CertificateKernel/Checked33.lean:337:0: 'QuadraticTangZhangKernel.record_5554_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3540/3556] Replayed QuadraticTangZhang.Certificate.Checked33
+info: QuadraticTangZhang/Certificate/Checked33.lean:44:0: 'QuadraticTangZhang.CertificateData.block_330_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked33.lean:81:0: 'QuadraticTangZhang.CertificateData.block_331_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked33.lean:118:0: 'QuadraticTangZhang.CertificateData.block_332_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked33.lean:155:0: 'QuadraticTangZhang.CertificateData.block_333_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked33.lean:192:0: 'QuadraticTangZhang.CertificateData.block_334_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked33.lean:229:0: 'QuadraticTangZhang.CertificateData.block_335_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked33.lean:266:0: 'QuadraticTangZhang.CertificateData.block_336_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked33.lean:303:0: 'QuadraticTangZhang.CertificateData.block_337_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked33.lean:340:0: 'QuadraticTangZhang.CertificateData.block_338_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked33.lean:377:0: 'QuadraticTangZhang.CertificateData.block_339_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3541/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked34
+info: QuadraticTangZhang/CertificateKernel/Checked34.lean:337:0: 'QuadraticTangZhangKernel.record_5664_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3542/3556] Replayed QuadraticTangZhang.Certificate.Checked34
+info: QuadraticTangZhang/Certificate/Checked34.lean:44:0: 'QuadraticTangZhang.CertificateData.block_340_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked34.lean:81:0: 'QuadraticTangZhang.CertificateData.block_341_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked34.lean:118:0: 'QuadraticTangZhang.CertificateData.block_342_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked34.lean:155:0: 'QuadraticTangZhang.CertificateData.block_343_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked34.lean:192:0: 'QuadraticTangZhang.CertificateData.block_344_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked34.lean:229:0: 'QuadraticTangZhang.CertificateData.block_345_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked34.lean:266:0: 'QuadraticTangZhang.CertificateData.block_346_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked34.lean:303:0: 'QuadraticTangZhang.CertificateData.block_347_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked34.lean:340:0: 'QuadraticTangZhang.CertificateData.block_348_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked34.lean:377:0: 'QuadraticTangZhang.CertificateData.block_349_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3543/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked35
+info: QuadraticTangZhang/CertificateKernel/Checked35.lean:338:0: 'QuadraticTangZhangKernel.record_5774_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3544/3556] Replayed QuadraticTangZhang.Certificate.Checked35
+info: QuadraticTangZhang/Certificate/Checked35.lean:44:0: 'QuadraticTangZhang.CertificateData.block_350_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked35.lean:81:0: 'QuadraticTangZhang.CertificateData.block_351_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked35.lean:118:0: 'QuadraticTangZhang.CertificateData.block_352_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked35.lean:155:0: 'QuadraticTangZhang.CertificateData.block_353_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked35.lean:192:0: 'QuadraticTangZhang.CertificateData.block_354_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked35.lean:229:0: 'QuadraticTangZhang.CertificateData.block_355_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked35.lean:266:0: 'QuadraticTangZhang.CertificateData.block_356_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked35.lean:303:0: 'QuadraticTangZhang.CertificateData.block_357_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked35.lean:340:0: 'QuadraticTangZhang.CertificateData.block_358_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked35.lean:377:0: 'QuadraticTangZhang.CertificateData.block_359_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3545/3556] Replayed QuadraticTangZhang.CertificateKernel.Checked36
+info: QuadraticTangZhang/CertificateKernel/Checked36.lean:338:0: 'QuadraticTangZhangKernel.record_5884_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3546/3556] Replayed QuadraticTangZhang.Certificate.Checked36
+info: QuadraticTangZhang/Certificate/Checked36.lean:44:0: 'QuadraticTangZhang.CertificateData.block_360_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked36.lean:81:0: 'QuadraticTangZhang.CertificateData.block_361_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked36.lean:118:0: 'QuadraticTangZhang.CertificateData.block_362_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked36.lean:155:0: 'QuadraticTangZhang.CertificateData.block_363_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked36.lean:192:0: 'QuadraticTangZhang.CertificateData.block_364_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked36.lean:229:0: 'QuadraticTangZhang.CertificateData.block_365_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked36.lean:266:0: 'QuadraticTangZhang.CertificateData.block_366_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked36.lean:303:0: 'QuadraticTangZhang.CertificateData.block_367_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked36.lean:340:0: 'QuadraticTangZhang.CertificateData.block_368_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked36.lean:377:0: 'QuadraticTangZhang.CertificateData.block_369_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3547/3556] Replayed QuadraticTangZhang.Certificate.Checked37
+info: QuadraticTangZhang/Certificate/Checked37.lean:42:0: 'QuadraticTangZhang.CertificateData.block_370_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked37.lean:79:0: 'QuadraticTangZhang.CertificateData.block_371_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked37.lean:116:0: 'QuadraticTangZhang.CertificateData.block_372_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked37.lean:153:0: 'QuadraticTangZhang.CertificateData.block_373_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked37.lean:190:0: 'QuadraticTangZhang.CertificateData.block_374_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked37.lean:227:0: 'QuadraticTangZhang.CertificateData.block_375_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked37.lean:264:0: 'QuadraticTangZhang.CertificateData.block_376_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked37.lean:301:0: 'QuadraticTangZhang.CertificateData.block_377_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked37.lean:338:0: 'QuadraticTangZhang.CertificateData.block_378_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked37.lean:375:0: 'QuadraticTangZhang.CertificateData.block_379_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3548/3556] Replayed QuadraticTangZhang.Certificate.Checked38
+info: QuadraticTangZhang/Certificate/Checked38.lean:42:0: 'QuadraticTangZhang.CertificateData.block_380_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked38.lean:79:0: 'QuadraticTangZhang.CertificateData.block_381_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked38.lean:119:0: 'QuadraticTangZhang.CertificateData.block_382_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked38.lean:159:0: 'QuadraticTangZhang.CertificateData.block_383_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked38.lean:199:0: 'QuadraticTangZhang.CertificateData.block_384_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked38.lean:239:0: 'QuadraticTangZhang.CertificateData.block_385_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked38.lean:279:0: 'QuadraticTangZhang.CertificateData.block_386_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked38.lean:319:0: 'QuadraticTangZhang.CertificateData.block_387_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked38.lean:359:0: 'QuadraticTangZhang.CertificateData.block_388_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked38.lean:399:0: 'QuadraticTangZhang.CertificateData.block_389_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3549/3556] Replayed QuadraticTangZhang.Certificate.Checked39
+info: QuadraticTangZhang/Certificate/Checked39.lean:45:0: 'QuadraticTangZhang.CertificateData.block_390_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked39.lean:85:0: 'QuadraticTangZhang.CertificateData.block_391_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked39.lean:125:0: 'QuadraticTangZhang.CertificateData.block_392_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked39.lean:165:0: 'QuadraticTangZhang.CertificateData.block_393_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked39.lean:205:0: 'QuadraticTangZhang.CertificateData.block_394_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked39.lean:245:0: 'QuadraticTangZhang.CertificateData.block_395_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked39.lean:285:0: 'QuadraticTangZhang.CertificateData.block_396_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked39.lean:325:0: 'QuadraticTangZhang.CertificateData.block_397_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked39.lean:365:0: 'QuadraticTangZhang.CertificateData.block_398_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked39.lean:405:0: 'QuadraticTangZhang.CertificateData.block_399_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3550/3556] Replayed QuadraticTangZhang.Certificate.Checked40
+info: QuadraticTangZhang/Certificate/Checked40.lean:45:0: 'QuadraticTangZhang.CertificateData.block_400_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked40.lean:85:0: 'QuadraticTangZhang.CertificateData.block_401_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked40.lean:125:0: 'QuadraticTangZhang.CertificateData.block_402_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked40.lean:165:0: 'QuadraticTangZhang.CertificateData.block_403_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked40.lean:205:0: 'QuadraticTangZhang.CertificateData.block_404_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked40.lean:245:0: 'QuadraticTangZhang.CertificateData.block_405_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked40.lean:285:0: 'QuadraticTangZhang.CertificateData.block_406_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked40.lean:325:0: 'QuadraticTangZhang.CertificateData.block_407_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked40.lean:365:0: 'QuadraticTangZhang.CertificateData.block_408_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked40.lean:405:0: 'QuadraticTangZhang.CertificateData.block_409_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3551/3556] Replayed QuadraticTangZhang.Certificate.Checked41
+info: QuadraticTangZhang/Certificate/Checked41.lean:45:0: 'QuadraticTangZhang.CertificateData.block_410_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked41.lean:85:0: 'QuadraticTangZhang.CertificateData.block_411_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked41.lean:125:0: 'QuadraticTangZhang.CertificateData.block_412_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked41.lean:165:0: 'QuadraticTangZhang.CertificateData.block_413_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked41.lean:205:0: 'QuadraticTangZhang.CertificateData.block_414_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked41.lean:245:0: 'QuadraticTangZhang.CertificateData.block_415_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked41.lean:285:0: 'QuadraticTangZhang.CertificateData.block_416_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked41.lean:325:0: 'QuadraticTangZhang.CertificateData.block_417_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked41.lean:365:0: 'QuadraticTangZhang.CertificateData.block_418_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked41.lean:405:0: 'QuadraticTangZhang.CertificateData.block_419_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3552/3556] Replayed QuadraticTangZhang.Certificate.Checked42
+info: QuadraticTangZhang/Certificate/Checked42.lean:45:0: 'QuadraticTangZhang.CertificateData.block_420_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked42.lean:85:0: 'QuadraticTangZhang.CertificateData.block_421_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked42.lean:125:0: 'QuadraticTangZhang.CertificateData.block_422_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked42.lean:165:0: 'QuadraticTangZhang.CertificateData.block_423_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked42.lean:205:0: 'QuadraticTangZhang.CertificateData.block_424_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked42.lean:245:0: 'QuadraticTangZhang.CertificateData.block_425_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked42.lean:285:0: 'QuadraticTangZhang.CertificateData.block_426_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked42.lean:325:0: 'QuadraticTangZhang.CertificateData.block_427_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked42.lean:365:0: 'QuadraticTangZhang.CertificateData.block_428_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked42.lean:405:0: 'QuadraticTangZhang.CertificateData.block_429_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+ℹ [3553/3556] Replayed QuadraticTangZhang.Certificate.Verified
+info: QuadraticTangZhang/Certificate/Verified.lean:102:0: 'QuadraticTangZhang.CertificateData.full_certificate_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Verified.lean:103:0: 'QuadraticTangZhang.CertificateData.full_certificate_evaluates_successfully' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+ℹ [3554/3556] Replayed QuadraticTangZhang.MainTheorem
+info: QuadraticTangZhang/MainTheorem.lean:52:0: 'QuadraticTangZhang.remainingInterior' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/MainTheorem.lean:53:0: 'QuadraticTangZhang.mainStatement' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/MainTheorem.lean:54:0: 'QuadraticTangZhang.equalityStatement' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/MainTheorem.lean:55:0: 'QuadraticTangZhang.powers_ge_two' depends on axioms: [propext, Classical.choice, Quot.sound]
+✔ [3555/3556] Built QuadraticTangZhang (11s)
+Build completed successfully (3556 jobs).

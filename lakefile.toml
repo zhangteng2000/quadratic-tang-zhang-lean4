@@ -1,0 +1,18 @@
+name = "quadratic_tang_zhang"
+version = "0.1.0"
+defaultTargets = ["QuadraticTangZhang"]
+
+[leanOptions]
+autoImplicit = false
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.34.0-rc1"
+
+[[lean_lib]]
+name = "QuadraticTangZhang"
+
+[[lean_lib]]
+name = "Sendov"
+

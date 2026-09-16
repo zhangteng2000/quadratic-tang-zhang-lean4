@@ -1,0 +1,120 @@
+⚠ [3389/3453] Replayed QuadraticTangZhang.CenteredRemainder
+warning: QuadraticTangZhang/CenteredRemainder.lean:84:58: Unused tactic linter: `ring` does nothing
+
+Note: This linter can be disabled with `set_option linter.unusedTactic false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:84:58: this tactic is never executed
+
+Note: This linter can be disabled with `set_option linter.unreachableTactic false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:84:25: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:84:39: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:100:24: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:100:38: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:190:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredRemainder.lean:190:34: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [3390/3453] Replayed QuadraticTangZhang.CenteredScalar
+warning: QuadraticTangZhang/CenteredScalar.lean:39:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredScalar.lean:40:74: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredScalar.lean:113:25: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredScalar.lean:113:53: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/CenteredScalar.lean:165:40: This simp argument is unused:
+  norm_mul
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [U, r, abs_of_nonneg ha]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+⚠ [3393/3453] Replayed QuadraticTangZhang.ConvexQuadrature
+warning: QuadraticTangZhang/ConvexQuadrature.lean:140:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+warning: QuadraticTangZhang/ConvexQuadrature.lean:149:20: Used `tac1 <;> tac2` where `(tac1; tac2)` would suffice
+
+Note: This linter can be disabled with `set_option linter.unnecessarySeqFocus false`
+⚠ [3394/3453] Replayed QuadraticTangZhang.DyadicSoundness
+warning: QuadraticTangZhang/DyadicSoundness.lean:37:5: Variable name `hn` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hn
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: QuadraticTangZhang/DyadicSoundness.lean:45:5: Variable name `hn` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hn
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: QuadraticTangZhang/DyadicSoundness.lean:64:27: `dif_neg` has been deprecated: Use `dite_eq_right` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:67:12: `if_pos` has been deprecated: Use `ite_eq_left` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:71:12: `if_neg` has been deprecated: Use `ite_eq_right` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:93:27: `dif_neg` has been deprecated: Use `dite_eq_right` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:96:12: `if_pos` has been deprecated: Use `ite_eq_left` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:100:12: `if_neg` has been deprecated: Use `ite_eq_right` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:187:45: `if_pos` has been deprecated: Use `ite_eq_left` instead
+warning: QuadraticTangZhang/DyadicSoundness.lean:189:45: `if_neg` has been deprecated: Use `ite_eq_right` instead
+⚠ [3451/3460] Replayed QuadraticTangZhang.RectangleBounds
+warning: QuadraticTangZhang/RectangleBounds.lean:18:44: Variable name `hD` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hD
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+warning: QuadraticTangZhang/RectangleBounds.lean:84:18: Variable name `hR` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hR
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [3453/3460] Replayed QuadraticTangZhang.UniformBounds
+warning: QuadraticTangZhang/UniformBounds.lean:34:18: Variable name `hL` is not explicitly referenced.
+
+Hint: The binding can be removed (if unused) or named `_` (if used implicitly). Alternatively, prefix the name with `_` to silence this warning:
+  [apply] _hL
+
+Note: This linter can be disabled with `set_option linter.unusedVariables false`
+⚠ [3456/3460] Replayed QuadraticTangZhang.CertificateVerifier
+warning: QuadraticTangZhang/CertificateVerifier.lean:189:57: This simp argument is unused:
+  upperF
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [Rat.cast_sub, Rat.cast_one]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+warning: QuadraticTangZhang/CertificateVerifier.lean:193:57: This simp argument is unused:
+  upperE
+
+Hint: Omit it from the simp argument list.
+  [apply] simp only [Rat.cast_sub, Rat.cast_one]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+ℹ [3460/3460] Built QuadraticTangZhang.Certificate.Checked12 (506s)
+info: QuadraticTangZhang/Certificate/Checked12.lean:39:0: 'QuadraticTangZhang.CertificateData.block_120_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:73:0: 'QuadraticTangZhang.CertificateData.block_121_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:107:0: 'QuadraticTangZhang.CertificateData.block_122_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:141:0: 'QuadraticTangZhang.CertificateData.block_123_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:175:0: 'QuadraticTangZhang.CertificateData.block_124_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:209:0: 'QuadraticTangZhang.CertificateData.block_125_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:243:0: 'QuadraticTangZhang.CertificateData.block_126_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:277:0: 'QuadraticTangZhang.CertificateData.block_127_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:311:0: 'QuadraticTangZhang.CertificateData.block_128_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: QuadraticTangZhang/Certificate/Checked12.lean:345:0: 'QuadraticTangZhang.CertificateData.block_129_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+Build completed successfully (3460 jobs).

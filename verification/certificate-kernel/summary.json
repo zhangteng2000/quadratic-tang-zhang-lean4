@@ -1,0 +1,225 @@
+{
+  "success": true,
+  "chunks": 43,
+  "blocks": 430,
+  "records": 6593,
+  "seconds": 9537.38,
+  "method": "Lean decide +kernel",
+  "results": [
+    {
+      "module": "Checked01",
+      "returncode": 0,
+      "seconds": 641.03
+    },
+    {
+      "module": "Checked02",
+      "returncode": 0,
+      "seconds": 529.97
+    },
+    {
+      "module": "Checked03",
+      "returncode": 0,
+      "seconds": 521.95
+    },
+    {
+      "module": "Checked04",
+      "returncode": 0,
+      "seconds": 405.61
+    },
+    {
+      "module": "Checked05",
+      "returncode": 0,
+      "seconds": 459.47
+    },
+    {
+      "module": "Checked00",
+      "returncode": 0,
+      "seconds": 2670.14
+    },
+    {
+      "module": "Checked06",
+      "returncode": 0,
+      "seconds": 392.05
+    },
+    {
+      "module": "Checked07",
+      "returncode": 0,
+      "seconds": 411.98
+    },
+    {
+      "module": "Checked08",
+      "returncode": 0,
+      "seconds": 419.8
+    },
+    {
+      "module": "Checked09",
+      "returncode": 0,
+      "seconds": 491.53
+    },
+    {
+      "module": "Checked10",
+      "returncode": 0,
+      "seconds": 464.81
+    },
+    {
+      "module": "Checked11",
+      "returncode": 0,
+      "seconds": 469.92
+    },
+    {
+      "module": "Checked12",
+      "returncode": 0,
+      "seconds": 512.14
+    },
+    {
+      "module": "Checked13",
+      "returncode": 0,
+      "seconds": 497.52
+    },
+    {
+      "module": "Checked14",
+      "returncode": 0,
+      "seconds": 464.83
+    },
+    {
+      "module": "Checked15",
+      "returncode": 0,
+      "seconds": 516.39
+    },
+    {
+      "module": "Checked17",
+      "returncode": 0,
+      "seconds": 4412.27
+    },
+    {
+      "module": "Checked16",
+      "returncode": 0,
+      "seconds": 4658.09
+    },
+    {
+      "module": "Checked18",
+      "returncode": 0,
+      "seconds": 4.8
+    },
+    {
+      "module": "Checked19",
+      "returncode": 0,
+      "seconds": 4.8
+    },
+    {
+      "module": "Checked20",
+      "returncode": 0,
+      "seconds": 4.84
+    },
+    {
+      "module": "Checked21",
+      "returncode": 0,
+      "seconds": 4.88
+    },
+    {
+      "module": "Checked23",
+      "returncode": 0,
+      "seconds": 5.0
+    },
+    {
+      "module": "Checked22",
+      "returncode": 0,
+      "seconds": 5.03
+    },
+    {
+      "module": "Checked25",
+      "returncode": 0,
+      "seconds": 5.38
+    },
+    {
+      "module": "Checked24",
+      "returncode": 0,
+      "seconds": 5.42
+    },
+    {
+      "module": "Checked26",
+      "returncode": 0,
+      "seconds": 5.2
+    },
+    {
+      "module": "Checked27",
+      "returncode": 0,
+      "seconds": 5.16
+    },
+    {
+      "module": "Checked28",
+      "returncode": 0,
+      "seconds": 5.3
+    },
+    {
+      "module": "Checked29",
+      "returncode": 0,
+      "seconds": 5.33
+    },
+    {
+      "module": "Checked31",
+      "returncode": 0,
+      "seconds": 5.48
+    },
+    {
+      "module": "Checked30",
+      "returncode": 0,
+      "seconds": 5.64
+    },
+    {
+      "module": "Checked33",
+      "returncode": 0,
+      "seconds": 5.28
+    },
+    {
+      "module": "Checked32",
+      "returncode": 0,
+      "seconds": 5.48
+    },
+    {
+      "module": "Checked35",
+      "returncode": 0,
+      "seconds": 5.28
+    },
+    {
+      "module": "Checked34",
+      "returncode": 0,
+      "seconds": 5.41
+    },
+    {
+      "module": "Checked37",
+      "returncode": 0,
+      "seconds": 5.27
+    },
+    {
+      "module": "Checked36",
+      "returncode": 0,
+      "seconds": 5.34
+    },
+    {
+      "module": "Checked38",
+      "returncode": 0,
+      "seconds": 5.25
+    },
+    {
+      "module": "Checked39",
+      "returncode": 0,
+      "seconds": 5.27
+    },
+    {
+      "module": "Checked40",
+      "returncode": 0,
+      "seconds": 5.39
+    },
+    {
+      "module": "Checked41",
+      "returncode": 0,
+      "seconds": 5.38
+    },
+    {
+      "module": "Checked42",
+      "returncode": 0,
+      "seconds": 4.84
+    }
+  ]
+}

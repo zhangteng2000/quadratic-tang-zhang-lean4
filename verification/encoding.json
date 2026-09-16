@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "certificate_sha256": "8384d62a377b4fcac4080d0e05979d7a6fcf90437b7e4911927a5403d4052709",
+  "records": 6593,
+  "files": [
+    {
+      "path": "QuadraticTangZhang/Certificate/Data.lean",
+      "records": 6593,
+      "sha256": "03faae188d07ec71af3587efc8c26a36dfd6cf5e6995ae332ba5836122f9dd38"
+    },
+    {
+      "path": "QuadraticTangZhang/CertificateKernel/Data.lean",
+      "records": 6593,
+      "sha256": "d29d9f2379529952a6226adbc23bcae2235d86dabad6934cd811931f1e20e2d5"
+    }
+  ],
+  "blocks": 430,
+  "block_references_match": true,
+  "method": "Exact Python integers; no floating-point conversion"
+}

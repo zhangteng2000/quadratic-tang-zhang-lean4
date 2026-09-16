@@ -1,0 +1,8 @@
+{
+  "manuscript_title": "Beyond Sendov's conjecture: the quadratic Tang--Zhang inequality",
+  "input_format": "user-pasted TeX",
+  "input_sha256": "170295aea7d2f0799f5b5cbad3f956fa70cbba898ad1d863d798ab39f5bf61c5",
+  "formalization_status": "complete: stages A-N, equality, and all real exponents >= 2",
+  "certificate_source": "https://github.com/zhangteng2000/quadratic-tang-zhang-conjecture/blob/v1.0/supplement/certificate.json",
+  "certificate_sha256": "8384d62a377b4fcac4080d0e05979d7a6fcf90437b7e4911927a5403d4052709"
+}

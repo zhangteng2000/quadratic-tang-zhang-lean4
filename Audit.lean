@@ -1,0 +1,34 @@
+import QuadraticTangZhang
+
+-- The final, unconditional statements.
+#check (QuadraticTangZhang.mainStatement : QuadraticTangZhang.MainStatement)
+#check (QuadraticTangZhang.equalityStatement : QuadraticTangZhang.EqualityStatement)
+#check (QuadraticTangZhang.remainingInterior : QuadraticTangZhang.RemainingInteriorStatement)
+#check QuadraticTangZhang.powers_ge_two
+
+-- Transitive axiom dependencies of every stage of the proof.
+#print axioms QuadraticTangZhang.centered_remainder_estimate
+#print axioms QuadraticTangZhang.centered_scalar_inequality
+#print axioms QuadraticTangZhang.direct_scalar_inequality
+#print axioms QuadraticTangZhang.abstract_rectangle_exclusion
+#print axioms QuadraticTangZhang.boxEnvelope_rpow_div_convex
+#print axioms QuadraticTangZhang.convex_quadrature_weight_one
+#print axioms QuadraticTangZhang.convex_quadrature_weight_two
+#print axioms QuadraticTangZhang.halfPower_sound
+#print axioms QuadraticTangZhang.CertificateRecord.one_record_verifier_sound
+#print axioms QuadraticTangZhang.certificate_coverage_sound
+#print axioms QuadraticTangZhang.CertificateData.record_count
+#print axioms QuadraticTangZhang.CertificateData.block_count
+#print axioms QuadraticTangZhang.CertificateData.full_certificate_coverage
+#print axioms QuadraticTangZhang.CertificateData.full_certificate_checked
+#print axioms QuadraticTangZhang.CertificateData.full_certificate_evaluates_successfully
+#print axioms QuadraticTangZhang.counterexample_produces_scalars
+#print axioms QuadraticTangZhang.finite_degree_interior
+#print axioms QuadraticTangZhang.large_degree_interior
+#print axioms QuadraticTangZhang.remainingInterior
+#print axioms QuadraticTangZhang.mainStatement
+#print axioms QuadraticTangZhang.equalityStatement
+#print axioms QuadraticTangZhang.main_theorem
+#print axioms QuadraticTangZhang.strict_interior
+#print axioms QuadraticTangZhang.powers_ge_two
+#print axioms QuadraticTangZhang.reciprocalEnergy_rpow

@@ -1,0 +1,35 @@
+{
+  "status": "complete",
+  "general_main_theorem_proved": true,
+  "general_equality_classification_proved": true,
+  "powers_ge_two_proved": true,
+  "completed_stages": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N"
+  ],
+  "certificate_records": 6593,
+  "certificate_degree_blocks": 430,
+  "finite_degree_range": "6 <= n <= 1000000",
+  "large_degree_range": "1000001 <= n",
+  "main_theorem": "QuadraticTangZhang.mainStatement",
+  "equality_theorem": "QuadraticTangZhang.equalityStatement",
+  "lean_version": "v4.34.0-rc1",
+  "mathlib_revision": "de5ce8a9a66a4aa68a9bdbb35b63a06d34d9ca11",
+  "allowed_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}

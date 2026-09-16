@@ -1,0 +1,38 @@
+QuadraticTangZhang.mainStatement : QuadraticTangZhang.MainStatement
+QuadraticTangZhang.equalityStatement : QuadraticTangZhang.EqualityStatement
+QuadraticTangZhang.remainingInterior : QuadraticTangZhang.RemainingInteriorStatement
+QuadraticTangZhang.powers_ge_two (p : Polynomial ℂ) (hdeg : 2 ≤ p.natDegree)
+  (hroots : QuadraticTangZhang.RootsInClosedDisk p) {a : ℂ} (hpa : Polynomial.eval a p = 0) {ell : ℝ} (hell : 2 ≤ ell) :
+  ↑(p.natDegree - 1) ≤ QuadraticTangZhang.criticalPowerEnergy p a ell ∧
+    (QuadraticTangZhang.criticalPowerEnergy p a ell = ↑(p.natDegree - 1) ↔ QuadraticTangZhang.Extremal p)
+'QuadraticTangZhang.centered_remainder_estimate' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.centered_scalar_inequality' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.direct_scalar_inequality' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.abstract_rectangle_exclusion' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.boxEnvelope_rpow_div_convex' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.convex_quadrature_weight_one' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.convex_quadrature_weight_two' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.halfPower_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.CertificateRecord.one_record_verifier_sound' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'QuadraticTangZhang.certificate_coverage_sound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.CertificateData.record_count' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.CertificateData.block_count' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.CertificateData.full_certificate_coverage' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'QuadraticTangZhang.CertificateData.full_certificate_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.CertificateData.full_certificate_evaluates_successfully' depends on axioms: [propext,
+ Classical.choice,
+ Quot.sound]
+'QuadraticTangZhang.counterexample_produces_scalars' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.finite_degree_interior' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.large_degree_interior' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.remainingInterior' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.mainStatement' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.equalityStatement' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.main_theorem' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.strict_interior' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.powers_ge_two' depends on axioms: [propext, Classical.choice, Quot.sound]
+'QuadraticTangZhang.reciprocalEnergy_rpow' depends on axioms: [propext, Classical.choice, Quot.sound]
