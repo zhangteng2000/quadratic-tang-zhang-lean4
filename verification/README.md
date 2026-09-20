@@ -1,9 +1,14 @@
-# 验证记录
+# Verification records
 
-`summary.json` 记录全部 A–N 以及等号、幂次推论的成功验证；`build.log` 和 `axioms.log` 是最终构建与公理审计日志。
+[`summary.json`](summary.json) records successful verification of all stages A-N, the
+equality classification, and the power corollary. [`build.log`](build.log) and
+[`axioms.log`](axioms.log) contain the final build and axiom-audit logs.
 
-`certificate-kernel/Checked00.log` 至 `Checked42.log` 对应全部 43 批；其中的成功缓存复用来自此前已完成的 Lean 内核计算。
+`certificate-kernel/Checked00.log` through `Checked42.log` cover all 43 batches.
+Successful cache reuse in these logs comes from previously completed Lean kernel computations.
 
-`encoding.json` 核对原始证书与两份 Lean 数据的 6593 条整数记录及全部 430 个次数块。`source-sha256.json` 记录交付源文件哈希。
+[`encoding.json`](encoding.json) checks the 6,593 integer records and all 430 degree
+blocks in the original certificate against both Lean data encodings.
+[`source-sha256.json`](source-sha256.json) records the source-file hashes.
 
-在项目根目录运行 `./verify.ps1` 可以重新构建并执行公理审计。
+Run `./verify.ps1` from the project root to rebuild the project and repeat the axiom audit.
